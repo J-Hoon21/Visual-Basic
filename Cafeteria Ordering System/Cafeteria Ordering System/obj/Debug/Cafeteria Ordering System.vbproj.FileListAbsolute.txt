@@ -1,0 +1,65 @@
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.exe.config
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.exe
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.pdb
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.xml
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.vbprojAssemblyReference.cache
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Form1.resources
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Form2.resources
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Resources.resources
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.vbproj.GenerateResource.cache
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.vbproj.CoreCompileInputs.cache
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.exe
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.xml
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.pdb
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Form4.resources
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Form3.resources
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.exe.config
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.exe
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.pdb
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.xml
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.vbprojAssemblyReference.cache
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Form1.resources
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Form2.resources
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Form3.resources
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Form4.resources
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Resources.resources
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.vbproj.GenerateResource.cache
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.vbproj.CoreCompileInputs.cache
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.exe
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.xml
+F:\New folder\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.pdb
+G:\APU\VBN\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Form5.resources
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.exe.config
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.exe
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.pdb
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.xml
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.vbprojAssemblyReference.cache
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.MenuList.resources
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Resources.resources
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.vbproj.GenerateResource.cache
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.vbproj.CoreCompileInputs.cache
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.exe
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.xml
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.pdb
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.vbprojAssemblyReference.cache
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.MenuList.resources
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Resources.resources
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.vbproj.GenerateResource.cache
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.vbproj.CoreCompileInputs.cache
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.exe
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.xml
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.pdb
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.exe.config
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.exe
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.pdb
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.xml
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.HiddenMenu.resources
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.StaffUserLogin.resources
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.CustomerLoginPage.resources
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.CustomerRegistrationForm.resources
+G:\Movie\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.PaymentSystem.resources
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.CustomerLoginPage.resources
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.CustomerRegistrationForm.resources
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.HiddenMenu.resources
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.PaymentSystem.resources
+G:\VB and CSA Picture\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.StaffUserLogin.resources
